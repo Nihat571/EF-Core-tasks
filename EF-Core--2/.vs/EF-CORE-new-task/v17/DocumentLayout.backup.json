@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\EF-CORE-new-task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF61A00-DDDD-4119-A974-9504956C73B0}|EF-CORE-new-task\\EF-CORE-new-task.csproj|c:\\users\\ii novbe\\source\\repos\\ef-core-new-task\\ef-core-new-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF61A00-DDDD-4119-A974-9504956C73B0}|EF-CORE-new-task\\EF-CORE-new-task.csproj|solutionrelative:ef-core-new-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF61A00-DDDD-4119-A974-9504956C73B0}|EF-CORE-new-task\\EF-CORE-new-task.csproj|c:\\users\\ii novbe\\source\\repos\\ef-core-new-task\\ef-core-new-task\\services\\loginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF61A00-DDDD-4119-A974-9504956C73B0}|EF-CORE-new-task\\EF-CORE-new-task.csproj|solutionrelative:ef-core-new-task\\services\\loginservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginServices.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EF-CORE-new-task\\EF-CORE-new-task\\Services\\LoginServices.cs",
+              "RelativeDocumentMoniker": "EF-CORE-new-task\\Services\\LoginServices.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EF-CORE-new-task\\EF-CORE-new-task\\Services\\LoginServices.cs",
+              "RelativeToolTip": "EF-CORE-new-task\\Services\\LoginServices.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAADgvzQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:14:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\EF-CORE-new-task\\EF-CORE-new-task\\Program.cs",
+              "RelativeDocumentMoniker": "EF-CORE-new-task\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\EF-CORE-new-task\\EF-CORE-new-task\\Program.cs*",
+              "RelativeToolTip": "EF-CORE-new-task\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwDwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:44:56.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
